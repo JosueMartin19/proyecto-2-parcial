@@ -73,4 +73,4 @@ class _PantallaGastosState extends State<PantallaGastos> {
           ),
     );
   }
-}
+} 
